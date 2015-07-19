@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base"/>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/secondaryColor</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <color name="primaryColor">#3F51B5</color>
+    <color name="primaryColor600">#3949AB</color>
+    <color name="secondaryColor">#283593</color>
+    <color name="alternateColor">#5E35B1</color>
+    <color name="background">#E0E0E0</color>
+    <color name="dark_gray">#616161</color>
+    <color name="button_color">#5C6BC0</color>
+
+    <item name="header_shadow" type="drawable">@drawable/bottom_shadow</item>
+
+    <style name="Raised.Button" parent="android:style/Widget.Button">
+        <item name="android:background">@color/primaryColor</item>
+    </style>
+</resources>

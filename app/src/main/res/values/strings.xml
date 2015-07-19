@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JefsPortafolio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="toolbar_tile">Jef\'s Portafolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_title">My Nanodegree Apps!</string>
+    <string name="first_app_name">SPOTIFY STREAMER</string>
+    <string name="second_app_name">SCORES APP</string>
+    <string name="third_app_name">LIBRARY APP</string>
+    <string name="fourth_app_name">BUILD IT BIGGER</string>
+    <string name="fifth_app_name">XYZ READER</string>
+    <string name="sixth_app_name">CAPSTONE: MY OWN APP</string>
+
+</resources>
