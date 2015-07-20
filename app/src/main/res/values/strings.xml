@@ -12,4 +12,6 @@
     <string name="fifth_app_name">XYZ READER</string>
     <string name="sixth_app_name">CAPSTONE: MY OWN APP</string>
 
+    <string name="launch">Launch: %1$s</string>
+
 </resources>
